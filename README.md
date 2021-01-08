@@ -1,7 +1,7 @@
-# Template2D-Unity202015f1
+# SantaChaos
 
 ### Project description: 
-Introduction/Project summary 
+SantaChaos, a game where you play as Santa. Your mission is to collect as many cookies as possible.
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by David
