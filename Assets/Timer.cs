@@ -26,7 +26,7 @@ public class Timer : MonoBehaviour
 
         if (timeInSec > 0)
         {
-            Debug.Log("Tu doch etwas formatiert " + string.Format("{0:00}:{1:00}", minutes, seconds));
+            Debug.Log("Time " + string.Format("{0:00}:{1:00}", minutes, seconds));
             timer.text = string.Format("{0:00}:{1:00}", minutes, seconds);
         }
         else
