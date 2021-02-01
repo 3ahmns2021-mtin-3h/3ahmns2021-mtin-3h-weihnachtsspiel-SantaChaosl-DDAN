@@ -4,25 +4,25 @@
 SantaChaos, a game where you play as Santa. Your mission is to collect as many cookies as possible.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(OS, Unity Version, Visual Studio Version 2019)
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+Not finished. Images in use.
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Pull the file, start exe.
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Includes a different Code for the "Cookie-Spawn".
 
 ### Project state: 
-incl. progress in percent
+MVP
 
 ### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned: How to handle int, bool, random range, else if/if
 
 Copyright by David
