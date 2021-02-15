@@ -14,7 +14,8 @@ WebGL, Mobile, VR Device incl. reference resolution
 <img src="./Screenshots/santachaos-Santa.jpg" width="250">
 <img src="./Screenshots/santachaos-Cookie.jpg" width="250">
 <img src="./Screenshots/santachaos-Milk.jpg" width="250">
-  <img src="./Screenshots/santachaos-Background.jpg" width="250">
+<img src="./Screenshots/santachaos-Background.jpg" width="250">
+<img src="./Screenshots/santachaos-GameScreenshot.jpg" width="250">
 </div>
 
 ### Necessary setup/execution steps: 
