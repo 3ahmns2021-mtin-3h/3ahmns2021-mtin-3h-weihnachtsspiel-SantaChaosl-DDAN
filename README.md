@@ -10,7 +10,12 @@ SantaChaos, a game where you play as Santa. Your mission is to collect as many c
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
-Not finished. Images in use.
+<div>
+<img src="./Screenshots/santachaos-Santa.jpg" width="250">
+<img src="./Screenshots/santachaos-Cookie.jpg" width="250">
+<img src="./Screenshots/santachaos-Milk.jpg" width="250">
+  <img src="./Screenshots/santachaos-Background.jpg" width="250">
+</div>
 
 ### Necessary setup/execution steps: 
 Pull the file, start exe.
