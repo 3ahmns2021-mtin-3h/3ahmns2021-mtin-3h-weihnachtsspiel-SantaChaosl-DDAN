@@ -25,7 +25,10 @@ Pull the file, start exe.
 Includes a different Code for the "Cookie-Spawn".
 
 ### Project state: 
-MVP
+MVP:
+-Der Weihnachtsmann bewegt sich, links und rechts entlang der horizontalen Achse.
+-Es sollten Kekse und Milchgläser "spawnen".
+-Die Milch zieht dem Weihnachtsmann, zwei Punkte ab, während der Keks, dem Weihnachtsmann, einen Punkt verleiht.
 
 ### Limitations: 
 
